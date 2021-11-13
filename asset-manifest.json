@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/keliumJU/react-zero-norn.git/static/css/main.0d30d307.chunk.css",
+    "main.js": "/keliumJU/react-zero-norn.git/static/js/main.69786d6b.chunk.js",
+    "main.js.map": "/keliumJU/react-zero-norn.git/static/js/main.69786d6b.chunk.js.map",
+    "runtime-main.js": "/keliumJU/react-zero-norn.git/static/js/runtime-main.a8b1fe43.js",
+    "runtime-main.js.map": "/keliumJU/react-zero-norn.git/static/js/runtime-main.a8b1fe43.js.map",
+    "static/css/2.b0ce55e0.chunk.css": "/keliumJU/react-zero-norn.git/static/css/2.b0ce55e0.chunk.css",
+    "static/js/2.728b1757.chunk.js": "/keliumJU/react-zero-norn.git/static/js/2.728b1757.chunk.js",
+    "static/js/2.728b1757.chunk.js.map": "/keliumJU/react-zero-norn.git/static/js/2.728b1757.chunk.js.map",
+    "static/js/3.aaed0534.chunk.js": "/keliumJU/react-zero-norn.git/static/js/3.aaed0534.chunk.js",
+    "static/js/3.aaed0534.chunk.js.map": "/keliumJU/react-zero-norn.git/static/js/3.aaed0534.chunk.js.map",
+    "index.html": "/keliumJU/react-zero-norn.git/index.html",
+    "static/css/2.b0ce55e0.chunk.css.map": "/keliumJU/react-zero-norn.git/static/css/2.b0ce55e0.chunk.css.map",
+    "static/css/main.0d30d307.chunk.css.map": "/keliumJU/react-zero-norn.git/static/css/main.0d30d307.chunk.css.map",
+    "static/js/2.728b1757.chunk.js.LICENSE.txt": "/keliumJU/react-zero-norn.git/static/js/2.728b1757.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/keliumJU/react-zero-norn.git/static/media/logo.6ce24c58.svg",
+    "static/media/noimg.3ca0dfab.jpg": "/keliumJU/react-zero-norn.git/static/media/noimg.3ca0dfab.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8b1fe43.js",
+    "static/css/2.b0ce55e0.chunk.css",
+    "static/js/2.728b1757.chunk.js",
+    "static/css/main.0d30d307.chunk.css",
+    "static/js/main.69786d6b.chunk.js"
+  ]
+}
